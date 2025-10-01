@@ -12,8 +12,8 @@ If you wish to run the Jupyter notebooks or scripts contained in this repository
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Axkai/LearningDataScience.git](https://github.com/Axkai/LearningDataScience.git)
-    cd your-repo-name
+    git clone https://github.com/Axkai/LearningDataScience.git
+    cd learningDataScience
     ```
 
 2.  **Create and activate a virtual environment** (Highly Recommended):
